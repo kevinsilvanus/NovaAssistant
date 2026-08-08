@@ -23,7 +23,7 @@ Beberapa hal yang bisa kamu tanyain ke Nova:
 Aplikasi ini berjalan dengan beberapa komponen utama:
 
 - **Python & Streamlit:** Buat pondasi utama dan tampilan antarmuka (UI) berbaju *custom CSS*.
-- **Google Gemini API (`gemini-2.5-flash`):** Otak dibalik jawaban-jawaban Nova.
+- **Google Gemini API (`gemini-3.5-flash`):** Otak dibalik jawaban-jawaban Nova.
 - **Ngrok:** Buat jembatan biar aplikasinya bisa diakses lewat link publik.
 - **Google Colab Secrets:** Tempat nyimpen Kunci API biar tetep aman dan nggak bocor.
 
