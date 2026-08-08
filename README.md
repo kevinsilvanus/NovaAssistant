@@ -1,3 +1,4 @@
+<img width="1900" height="880" alt="Nova AI" src="https://github.com/user-attachments/assets/37305c4b-e1a8-4f04-94c2-33914256a0e2" />
 # ✨ Nova Assistant
 
 > Teman ngobrol harian yang siap bantu beresin kerjaan, nyari ide, atau sekadar nemenin kamu mikir.  
